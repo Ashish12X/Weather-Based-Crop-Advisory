@@ -1,4 +1,4 @@
-# Weather-Based Crop Advisory System. 
+# Weather-Based Crop Advisory System
 
 ## About the Project
 
@@ -77,6 +77,32 @@ The system uses rule-based logic to generate recommendations.
 | R03  | Very high temperature             | Check soil moisture and irrigation requirements more frequently.          |
 | R04  | High humidity with wet conditions | Increase attention to weather-related crop risk.                          |
 | R05  | Weather data unavailable          | Show a data-unavailable message and do not generate weather-based advice. |
+
+## Feasibility Study
+
+The feasibility of the proposed system is considered from three main points of view.
+
+### 1. Technical Feasibility
+
+The project can be developed using commonly available web development technologies. The system requires a frontend, backend, database and an external weather API.
+
+The required development tools and technologies are widely available, so the proposed system is technically feasible for an academic project.
+
+### 2. Economic Feasibility
+
+The project can be developed using open-source development tools and technologies. A weather API with a suitable free or low-cost plan can be used during development and testing.
+
+Therefore, the initial development cost of the proposed system can be kept low.
+
+### 3. Operational Feasibility
+
+The system is designed with a simple workflow. The farmer only needs to select the location and crop and then view the weather information and generated advisory.
+
+The recommendations are displayed in simple language, which makes the system easier to use for users with limited technical knowledge.
+
+### Feasibility Conclusion
+
+Based on the technical, economic and operational analysis, the proposed Weather-Based Crop Advisory System is feasible as an academic project and can be further extended with more crops, regions and advisory rules.
 
 ## System Users
 
