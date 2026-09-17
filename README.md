@@ -1,4 +1,4 @@
-# Weather-Based Crop Advisory System
+# Weather-Based Crop Advisory System. 
 
 ## About the Project
 
